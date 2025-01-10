@@ -1,0 +1,29 @@
+{
+    "name": "mern-frontend",
+    "version": "1.0.0",
+    "description": "Product Transactions Dashboard - MERN Stack",
+    "main": "index.js",
+    "scripts": {
+      "start": "react-scripts start",
+      "build": "react-scripts build",
+      "test": "react-scripts test",
+      "eject": "react-scripts eject"
+    },
+    "dependencies": {
+      "axios": "^0.27.2",
+      "chart.js": "^3.7.1",
+      "react": "^18.2.0",
+      "react-chartjs-2": "^4.0.0",
+      "react-dom": "^18.2.0",
+      "react-scripts": "^5.0.0",
+      "react-router-dom": "^6.4.3"
+    },
+    "devDependencies": {
+      "eslint": "^8.13.0",
+      "eslint-config-react-app": "^0.2.1"
+    },
+    "proxy": "http://localhost:5000",
+    "author": "",
+    "license": "ISC"
+  }
+  
